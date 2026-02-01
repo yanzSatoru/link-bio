@@ -1,0 +1,32 @@
+body {
+  background: #111;
+  font-family: Arial;
+  color: white;
+  text-align: center;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.profile {
+  width: 120px;
+  border-radius: 50%;
+}
+
+.btn {
+  display: block;
+  margin: 12px auto;
+  padding: 15px;
+  width: 80%;
+  max-width: 300px;
+  text-decoration: none;
+  color: white;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.tiktok { background: #000; }
+.ig { background: #E1306C; }
+.wa { background: #25D366; }
+.tg { background: #0088cc; }
